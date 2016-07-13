@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/isakib/cucumber-poltergeist-demo.svg?branch=master)](https://travis-ci.org/isakib/cucumber-poltergeist-demo)
+[![Build Status](https://travis-ci.org/isakib/demo.svg?branch=master)](https://travis-ci.org/isakib/demo)
 
 
 ##Poltergeist 
